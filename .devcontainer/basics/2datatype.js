@@ -32,7 +32,7 @@
     */
    console.log("datatype ")
    console.log("primitive datatype ")
-   let  a ="nazia",b=2,c,d= Symbol('id'),e=232323224,f=null ,g=Symbol('id')
+   let  a ="nazia",b=2,c,d= Symbol('id'),e=232323224,f=null ,g=Symbol('id'),h=13243n
    
 console.log(typeof(a))
 console.log(typeof(b))
@@ -42,6 +42,8 @@ console.log(typeof(e))
 console.log(typeof(d))
 console.log(typeof(g))
 console.log(d==g)
+console.log(typeof(h));
+
 
 console.log(" non primitive datatype ")
 let student = {name : "ali", age:20} 
