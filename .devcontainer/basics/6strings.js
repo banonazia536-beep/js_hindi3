@@ -16,6 +16,7 @@ console.log(`name of user ${b}` );
 const gamename = new String('nazia')// in console it represent prototype ,length ,  
 console.log(gamename); 
 console.log(gamename[0]);
+console.log(gamename[0]);
 console.log(gamename[1]);
 console.log(gamename[2]);
 console.log(gamename[3]);
@@ -32,7 +33,7 @@ const newstring = gamename.slice(-8,4)
 console.log(newstring);
 console.log(anotherstring.trim());
 console.log(b.replace('a','_'));
-console.log(b.includes('z'));
+console.log(b.includes('z'))
 
 // if we want to seen diff methods then write this quary in consol
 //const gamename = new String('nazia')
