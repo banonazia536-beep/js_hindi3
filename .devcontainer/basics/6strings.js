@@ -9,7 +9,7 @@ let a="12"
 console.log(a);
 //addition of stringa
 let b="nazia",c=" bano"
-console.log(b+c);
+console.log(b+c);//can't follow this method
 console.log(`name of user ${b}` );
 
 // prient string and diff prototype of string and length 
